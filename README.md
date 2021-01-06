@@ -53,7 +53,7 @@ Syncfusion.Windows.Forms.Chart.ChartSeries chartSeries1 = new Syncfusion.Windows
 
 It will automatically load the export pdf but by default it will be stored in below location format
 
-***C:\Users\{Folder}\Chart_To_PDF_WinForms\Chart_To_PDF_WinForms\bin\Debug\chartExport.pdf**
+**C:\Users\{Folder}\Chart_To_PDF_WinForms\Chart_To_PDF_WinForms\bin\Debug\chartExport.pdf**
 
 
 # See Also
